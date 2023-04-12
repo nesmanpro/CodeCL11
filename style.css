@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cont {
+    padding: 30px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+h1.header1 {
+    width: 100vw;
+    align-items: center;
+    text-align: center;
+}
+
+.header2 {
+    font-size: 60px;
+    align-items: center;
+    text-align: center;
+}
